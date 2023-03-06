@@ -1,0 +1,17 @@
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/constant/AuthConstant.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/api/CommonPage.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/exception/ApiException.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/service/impl/RedisServiceImpl.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/config/BaseRedisConfig.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/config/BaseSwaggerConfig.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/api/IErrorCode.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/api/ResultCode.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/service/RedisService.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/domain/SwaggerProperties.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/domain/UserDto.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/api/CommonResult.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/log/WebLogAspect.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/exception/Asserts.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/domain/WebLog.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/annotation/CacheException.java
+/root/mall/mall-swarm/mall-common/src/main/java/com/macro/mall/common/exception/GlobalExceptionHandler.java

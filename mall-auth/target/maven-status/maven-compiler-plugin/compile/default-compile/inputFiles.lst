@@ -1,0 +1,14 @@
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/exception/Oauth2ExceptionHandler.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/controller/KeyPairController.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/domain/SecurityUser.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/controller/AuthController.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/service/UmsAdminService.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/config/WebSecurityConfig.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/config/SwaggerConfig.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/config/Oauth2ServerConfig.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/constant/MessageConstant.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/service/impl/UserServiceImpl.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/domain/Oauth2TokenDto.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/service/UmsMemberService.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/component/JwtTokenEnhancer.java
+/root/mall/mall-swarm/mall-auth/src/main/java/com/macro/mall/auth/MallAuthApplication.java
